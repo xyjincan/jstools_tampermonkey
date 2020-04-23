@@ -5,6 +5,7 @@
 // @description  web home
 // @author       xyjinca
 // @match        https://www.weibo.com/nguide/interests
+// @match        https://weibo.com/nguide/interests
 // @grant        none
 // ==/UserScript==
 
